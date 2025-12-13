@@ -21,7 +21,7 @@
 // console.log(round)
 
 
-// var round1 = Math.ceil(2.0)   // 3
+// var round1 = Math.ceil(round2.0)   // 3
 // var round2 = Math.ceil(2.9)   // 3
 // var round3 = Math.ceil(5.0)   // 5
 
@@ -29,7 +29,7 @@
 // console.log(round2)
 // console.log(round3)
 
-// var round4 = Math.floor(2.5)  // 2
+// var round4 = Math.floor(2)  // 2
 // var round5 = Math.floor(2.1)  // 2
 // var round6 = Math.floor(5.0)  // 5
 
@@ -38,6 +38,19 @@
 // console.log(round6)
 
 
+// var die = Math.round(Math.random() * 6) + 1
+// console.log(die)
 
 
+// var name = Math.round(1.5)
+// var name = Math.ceil(5.1)
+// var name = Math.floor(-.000002)
+// console.log(name)
+
+var die = (Math.random() * 6) + 1
+var newDie = Math.floor(die)
+console.log("die--->", newDie)
+
+var nahi = Math.floor(Math.random() * 6) + 1
+console.log("nahi-->",nahi)
 
