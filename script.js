@@ -47,10 +47,14 @@
 // var name = Math.floor(-.000002)
 // console.log(name)
 
-var die = (Math.random() * 6) + 1
-var newDie = Math.floor(die)
-console.log("die--->", newDie)
+// var die = (Math.random() * 6) + 1
+// var newDie = Math.floor(die)
+// console.log("die--->", newDie)
 
-var nahi = Math.floor(Math.random() * 6) + 1
-console.log("nahi-->",nahi)
+// var nahi = Math.floor(Math.random() * 6) + 1
+// console.log("nahi-->",nahi)
+
+
+// -----------start javascript chapter 28--------- //
+
 
