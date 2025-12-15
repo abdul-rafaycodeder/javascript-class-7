@@ -75,7 +75,7 @@
 
 // -----------start javascript chapter 29--------- //
 
-var age = prompt("enter your age")
-var reslut = parseFloat(age) + 1
-console.log(reslut)
+// var age = prompt("enter your age")
+// var reslut = Number(age) + 1
+// console.log(reslut)
 
