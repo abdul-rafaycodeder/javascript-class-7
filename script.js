@@ -57,4 +57,25 @@
 
 // -----------start javascript chapter 28--------- //
 
+// var yourName = prompt("enter your name")
+// // var firstName = "rafay"
+// var lastName = "khan "
+// // var conbine = firstName + lastName
+// // var reslut = parseInt(firstName) + "osama" 
+// console.log(yourName +  lastName)
+
+// var num1 = prompt("enter your number")
+// var reslut1 = parseInt(num1) + 1
+// console.log(reslut1)
+
+
+// var age = prompt("enter your age")
+// var reslut = parseFloat(age) + 1
+// console.log(reslut)
+
+// -----------start javascript chapter 29--------- //
+
+var age = prompt("enter your age")
+var reslut = parseFloat(age) + 1
+console.log(reslut)
 
